@@ -1,0 +1,25 @@
+2023-11-20 17:53:32.606322
+Videos visited: 274
+Number of new links: 6795
+Time Elapsed: 68.265 seconds.
+------------------------------------
+2023-11-20 19:03:09.477246
+Videos visited: 274
+Number of new links: 0
+Time Elapsed: 6.992 seconds.
+------------------------------------
+2023-11-21 17:41:45.220907
+Videos visited: 274
+Number of new links: 0
+Time Elapsed: 7.363 seconds.
+------------------------------------
+2023-11-21 18:13:39.560938
+Videos visited: 274
+Number of new links: 0
+Time Elapsed: 7.693 seconds.
+------------------------------------
+2023-11-21 18:15:58.838267
+Videos visited: 274
+Number of new links: 0
+Time Elapsed: 7.357 seconds.
+------------------------------------
